@@ -1,0 +1,11 @@
+.img-container img {
+    width: 100%;
+}
+
+.service-container {
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
